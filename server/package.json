@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "start": "node index.js",
+=======
+     "start": "node index.js",
+>>>>>>> 3a9099c55bd842b796616acb00db048f79d8d12b
     "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,9 +19,13 @@
   "dependencies": {
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
+<<<<<<< HEAD
     "mongodb": "^6.15.0"
   },
   "devDependencies": {
+=======
+    "mongodb": "^6.13.0",
+>>>>>>> 3a9099c55bd842b796616acb00db048f79d8d12b
     "nodemon": "^3.1.9"
   }
 }
